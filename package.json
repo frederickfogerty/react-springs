@@ -9,6 +9,7 @@
     "start": "HOT=1 babel-node server.js",
     "dev": "babel-node server.js"
   },
+  "repository": "threepointone/react-springs",
   "keywords": [
     "animation",
     "react",
